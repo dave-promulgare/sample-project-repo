@@ -76,7 +76,11 @@ Provide a GANTT chart diagram that shows the tasks, how long they will take and 
 | Gather requirements | Talk to stakeholders to find out rules                       | 1 day         | Identity stakeholders            |
 | Transfer input form | Develop the web form for capturing how many tokens to transfer. | 4 hours       | Create web application framework |
 
+# Screen Shots
 
+Provide screen shots of your web interface up and running.
 
+# Installation Instructions
 
+Provide instructions on how to install and run your application.
 
